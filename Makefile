@@ -33,7 +33,8 @@ C = ft_atoi.c		\
 	ft_split.c		\
 	ft_strjoin.c	\
 	ft_strmapi.c	\
-	ft_strtrim.c
+	ft_strtrim.c	\
+	ft_strcmp.c
 
 O = ft_atoi.o		\
 	ft_calloc.o		\
@@ -68,7 +69,8 @@ O = ft_atoi.o		\
 	ft_split.o		\
 	ft_strjoin.o	\
 	ft_strmapi.o	\
-	ft_strtrim.o
+	ft_strtrim.o	\
+	ft_strcmp.o
 
 H = libft.h
 
